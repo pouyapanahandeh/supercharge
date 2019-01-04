@@ -1,0 +1,14 @@
+body{
+  background-color: #05b3a7;
+  background-image: -webkit-linear-gradient(right, #0ec4b8, #05b3a7);
+  background-image: -moz-linear-gradient(right, #0ec4b8, #05b3a7);
+  background-image: -o-linear-gradient(right, #0ec4b8, #05b3a7);
+  background-image: -ms-linear-gradient(right, #0ec4b8, #05b3a7);
+  background-image: linear-gradient(right, #0ec4b8, #05b3a7);
+}
+#index-card{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
